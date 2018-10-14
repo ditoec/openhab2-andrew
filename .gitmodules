@@ -1,0 +1,3 @@
+[submodule "habpanel-widget-yahooweather"]
+	path = habpanel-widget-yahooweather
+	url = https://github.com/ditoec/habpanel-widget-yahooweather
